@@ -1,4 +1,3 @@
-# Detectar-Plagio-Gemini
 <a id="readme-top"></a>
 
 <h1 align="center"> 
